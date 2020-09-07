@@ -1,2 +1,2 @@
-# p5
+# P5
 Semester project
